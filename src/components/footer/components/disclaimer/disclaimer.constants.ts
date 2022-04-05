@@ -1,0 +1,1 @@
+export const DISCLAIMER_TEXT = `The purchase of POKT Shares constitutes an investment so it is inherently risky, and it is even more so as an investment in DeFi space. Do your own research before investing. By using safepokt.finance you understand and acknowledge such risks and agree that the team will not be liable for any financial losses from investing in SafePOKT protocol.`
